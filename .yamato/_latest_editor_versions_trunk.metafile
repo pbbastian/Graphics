@@ -9,49 +9,49 @@ editor_version_names:
 editor_versions:
   trunk_latest_internal:
     android:
-      revision: fdd63b12dbc05087a52bda9167f868f3fc105d49
+      revision: e7c0e53e6f4b67be956fd2952334c361d913bea0
       version: ''
     ios:
-      revision: fdd63b12dbc05087a52bda9167f868f3fc105d49
+      revision: e7c0e53e6f4b67be956fd2952334c361d913bea0
       version: ''
     linux:
-      revision: fdd63b12dbc05087a52bda9167f868f3fc105d49
+      revision: e7c0e53e6f4b67be956fd2952334c361d913bea0
       version: ''
     macos:
-      revision: fdd63b12dbc05087a52bda9167f868f3fc105d49
+      revision: e7c0e53e6f4b67be956fd2952334c361d913bea0
       version: ''
     windows:
-      revision: fdd63b12dbc05087a52bda9167f868f3fc105d49
+      revision: e7c0e53e6f4b67be956fd2952334c361d913bea0
       version: ''
   trunk_latest_public:
     android:
-      revision: fdd63b12dbc05087a52bda9167f868f3fc105d49
+      revision: e7c0e53e6f4b67be956fd2952334c361d913bea0
       version: ''
     ios:
-      revision: fdd63b12dbc05087a52bda9167f868f3fc105d49
+      revision: e7c0e53e6f4b67be956fd2952334c361d913bea0
       version: ''
     linux:
-      revision: fdd63b12dbc05087a52bda9167f868f3fc105d49
+      revision: e7c0e53e6f4b67be956fd2952334c361d913bea0
       version: ''
     macos:
-      revision: fdd63b12dbc05087a52bda9167f868f3fc105d49
+      revision: e7c0e53e6f4b67be956fd2952334c361d913bea0
       version: ''
     windows:
-      revision: fdd63b12dbc05087a52bda9167f868f3fc105d49
+      revision: e7c0e53e6f4b67be956fd2952334c361d913bea0
       version: ''
   trunk_staging:
     android:
-      revision: fdd63b12dbc05087a52bda9167f868f3fc105d49
+      revision: e7c0e53e6f4b67be956fd2952334c361d913bea0
       version: ''
     ios:
-      revision: fdd63b12dbc05087a52bda9167f868f3fc105d49
+      revision: e7c0e53e6f4b67be956fd2952334c361d913bea0
       version: ''
     linux:
-      revision: fdd63b12dbc05087a52bda9167f868f3fc105d49
+      revision: e7c0e53e6f4b67be956fd2952334c361d913bea0
       version: ''
     macos:
-      revision: fdd63b12dbc05087a52bda9167f868f3fc105d49
+      revision: e7c0e53e6f4b67be956fd2952334c361d913bea0
       version: ''
     windows:
-      revision: fdd63b12dbc05087a52bda9167f868f3fc105d49
+      revision: e7c0e53e6f4b67be956fd2952334c361d913bea0
       version: ''
